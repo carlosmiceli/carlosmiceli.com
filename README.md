@@ -27,7 +27,7 @@ Wanted to create a new and minimalistic website in no more than a weekend, so I 
 To run this project, install it locally using npm:
 
 ```
-$ cd ../bnbestweb
+$ cd ../carlosmiceli-com
 $ npm install
 $ npm start
 ```
