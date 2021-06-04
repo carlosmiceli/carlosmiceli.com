@@ -20,9 +20,10 @@
       <div v-if="fade" id="text-section">
         <p id="closeText" @click="closeText">x</p>
         <About :show="show" :id="0" />
-        <EstoniaExperience :show="show" :id="1" />
-        <SpeakingMedia :show="show" :id="2" />
-        <Testimonials :show="show" :id="3" />
+        <Developer :show="show" :id="1" />
+        <EstoniaExperience :show="show" :id="2" />
+        <SpeakingMedia :show="show" :id="3" />
+        <Testimonials :show="show" :id="4" />
       </div>
     </transition>
   </div>
@@ -32,6 +33,7 @@
 
 import NavItem from "./components/NavItem.vue"
 import About from "./components/About.vue"
+import Developer from "./components/Developer.vue"
 import EstoniaExperience from "./components/EstoniaExperience.vue"
 import SpeakingMedia from "./components/SpeakingMedia.vue"
 import Testimonials from "./components/Testimonials.vue"
@@ -42,6 +44,7 @@ export default {
   components: {
     NavItem,
     About,
+    Developer,
     EstoniaExperience,
     SpeakingMedia,
     Testimonials,
@@ -49,7 +52,7 @@ export default {
   },
   data() {
     return {
-      items: ["about", "estonia experience", "speaking & media", "testimonials", "contact"],
+      items: ["about", "developer", "estonia experience", "speaking & media", "testimonials", "contact"],
       fade: false,
       show: -1,
       showIcons: false
@@ -202,14 +205,14 @@ h2 {
   justify-content: flex-end;
   overflow-y: scroll;
   height: 50vh;
-  padding: 10px 20px;
+  padding: 15px 25px;
   text-align: left;
   color: rgb(31, 31, 31);
   background: rgba(231, 231, 231);
   border-radius: 10px;
   position: absolute;
-  width: 80%;
-  top: 140px;
+  width: 75%;
+  top: 150px;
   left:0;
   right:0;
   margin: 0 auto;
@@ -245,8 +248,9 @@ h2 {
 #closeText {
   align-self: flex-start;
   position: absolute;
-  font-size: 15px;
-  top: 0px;
+  font-size: 20px;
+  color: #793f19d2;
+  top: 2px;
   right: 7px;
 }
 
@@ -320,8 +324,7 @@ h3 {
   }
 
   #text-section {
-    height: 55vh;
-    width: 80%;
+    height: 60vh;
   }
 }
 
@@ -329,10 +332,6 @@ h3 {
 
   body::before {
     background-position-x: -250px;
-  }
-
-  #text-section {
-    width: 75%;
   }
 }
 
@@ -343,7 +342,6 @@ h3 {
   }
 
   #text-section {
-    height: 60vh;
     width: 70%;
   }
 
@@ -439,14 +437,13 @@ h3 {
     background: rgba(231, 231, 231, 0.76);
     height: 85vh;
     padding: 20px 25px;
-    border-radius: 20px;
     width: 30%;
     top: 40px;
   }
 
   #closeText {
     top: 5px;
-    right: 12px;
+    right: 9px;
   }
 }
 
@@ -505,6 +502,7 @@ h3 {
 
   #text-section {
     width: 35%;
+    font-size: 14px;
   }
 }
 
@@ -524,6 +522,11 @@ h3 {
 
   #nav li {
     font-size: 17px;
+  }
+
+  #text-section {
+    width: 35%;
+    font-size: 15px;
   }
 }
 

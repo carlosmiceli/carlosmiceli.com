@@ -27,10 +27,4 @@ export default {
     align-self: flex-start;
     }
 
-@media only screen and (min-width: 850px) {
-    #estonia-section {
-        margin-top: 0;
-    }
-}
-
 </style>

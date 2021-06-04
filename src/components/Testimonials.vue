@@ -115,4 +115,11 @@ export default {
     margin-bottom: 10px;
 }
 
+@media only screen and (min-width: 1300px) {
+    .testimonial {
+        font-size: 14px;
+        line-height: 22px;
+    }
+}
+
 </style>

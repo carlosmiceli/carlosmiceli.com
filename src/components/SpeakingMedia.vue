@@ -21,7 +21,7 @@
         <h3>MEDIA</h3>
         <p>My work was featured in media around the world, in countries such as United States, Spain, 
             Australia, Mexico, Chile, Colombia and Argentina. Apertura magazine, the most important 
-            business magazine of Latin America, named Carlos a Top Leader of Argentina Under 35. 
+            business magazine of Latin America, named me a Top Leader of Argentina Under 35. 
             In 2012 I wrote a short e-book in Spanish, titled "The Power of Your Context", about 
             creating routines and establishing processes to improve our personal productivity.</p>
     </div>

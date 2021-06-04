@@ -83,9 +83,15 @@ export default {
     }
 
     .fadeIcons {
-            justify-content: space-between;
-    padding-top: 5px;
+        justify-content: space-between;
+        padding-top: 5px;
 
+    }
+}
+
+@media only screen and (min-width: 1300px) {
+    .icons a {
+        max-width: 35px;
     }
 }
 
