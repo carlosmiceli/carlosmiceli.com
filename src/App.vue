@@ -60,11 +60,11 @@ export default {
   },
   methods: {
     getIndex(index) {
-      if (!this.fade && index !== 4) {
+      if (!this.fade && index !== 5) {
         this.show = index
         this.fade = true
       }
-      else if (this.show !== index && index !== 4) {
+      else if (this.show !== index && index !== 5) {
         this.show = index
       }
       else {

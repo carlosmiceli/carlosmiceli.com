@@ -19,7 +19,7 @@
             <img src="../../public/dev-logos/vuex.png" alt="vuex"> 
         </div>
         <p>
-            I'm currently 100% focused on <a target="_blank" href="https://paper.dropbox.com/doc/My-Journey-to-Coding-Mastery--BJTgryfnBiB43a_nmogdSq~UAQ-kDdrF9BRDEx3KXjH6V8tp">My Journey to Coding Mastery</a>, which involves, among other things:
+            I'm currently 100% focused on <a target="_blank" href="https://paper.dropbox.com/doc/My-Journey-to-Coding-Mastery--BJTgryfnBiB43a_nmogdSq~UAQ-kDdrF9BRDEx3KXjH6V8tp">My Journey to Coding Mastery</a> which, among other things, involves:
             <ol>
                 <li>Getting a new full-stack or back-end job in a small or mid size tech company with experienced tech mentors and a healthy remote culture.</li>
                 <li>Daily routine of a) studying new docs and theory, b) practicing algorithms, and c) building challenging projects.</li>
