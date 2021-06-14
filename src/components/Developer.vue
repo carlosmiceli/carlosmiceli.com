@@ -7,16 +7,15 @@
             <img src="../../public/dev-logos/css3.png" alt="css3">
             <img src="../../public/dev-logos/node.png" alt="node">
             <img src="../../public/dev-logos/express.png" alt="express">
-            <img src="../../public/dev-logos/sql.png" alt="sql">
             <img src="../../public/dev-logos/postgresql.png" alt="postgresql">
             <img src="../../public/dev-logos/mongo.png" alt="mongo">
             <img src="../../public/dev-logos/redis.png" alt="redis">
             <img src="../../public/dev-logos/firebase.png" alt="firebase">
-            <img src="../../public/dev-logos/mocha.png" alt="mocha">
+            <img src="../../public/dev-logos/typescript.png" alt="typescript">
+            <div></div>
             <img src="../../public/dev-logos/react.png" alt="react">
-            <img src="../../public/dev-logos/redux.png" alt="redux">
             <img src="../../public/dev-logos/vue.png" alt="vue">
-            <img src="../../public/dev-logos/vuex.png" alt="vuex"> 
+            <img src="../../public/dev-logos/redux.png" alt="redux">
         </div>
         <p>
             I'm currently 100% focused on <a target="_blank" href="https://paper.dropbox.com/doc/My-Journey-to-Coding-Mastery--BJTgryfnBiB43a_nmogdSq~UAQ-kDdrF9BRDEx3KXjH6V8tp">My Journey to Coding Mastery</a> which, among other things, involves:
