@@ -6,10 +6,10 @@
 	>
 		<h3>PORTFOLIO</h3>
 		<p>
-			Below are some highlights of projects I've built in chronological order.
-			You can see more on my
+			Below are some highlights of projects I've built in chronological order until late 2021. Since then, most of my work has been devoted to growing and improving my current employer's app.
+			<!-- You can see more on my
 			<a target="_blank" href="https://github.com/carlosmiceli">Github</a>
-			profile.
+			profile. -->
 		</p>
 		<div class="portfolio-list-item">
 			<div class="portfolio-project-title" @click="expand(1)">
@@ -175,7 +175,7 @@
 				</div>
 				<p>
 					<strong>Goal:</strong> Create a better-looking, modern and
-					good-converting landing page for my company.
+					good-converting landing page for my former side-business of corporate travel to Estonia.
 					<a href="https://estoniaexp.com">Visit the Website.</a>
 				</p>
 				<br />

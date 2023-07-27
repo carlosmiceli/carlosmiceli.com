@@ -3,33 +3,34 @@
       <div>
         <h3>TECH STACK</h3>
         <div @click="portfolioClick" id="dev-logos">
-            <img src="../../public/dev-logos/javascript.png" alt="javascript">
             <img src="../../public/dev-logos/node.png" alt="node">
             <img src="../../public/dev-logos/react.png" alt="react">
+            <img src="../../public/dev-logos/express.png" alt="express">
             <img src="../../public/dev-logos/vue.png" alt="vue">
+            <img src="../../public/dev-logos/php.png" alt="php">
+            <img src="../../public/dev-logos/laravel.png" alt="laravel">
             <img src="../../public/dev-logos/python.png" alt="python">
             <img src="../../public/dev-logos/typescript.png" alt="typescript">
-            <img src="../../public/dev-logos/express.png" alt="express">
             <img src="../../public/dev-logos/postgresql.png" alt="postgresql">
             <img src="../../public/dev-logos/mongo.png" alt="mongo">
             <img src="../../public/dev-logos/redis.png" alt="redis">
-            <div></div>
             <img src="../../public/dev-logos/firebase.png" alt="firebase">
             <img src="../../public/dev-logos/redux.png" alt="redux">
             <img src="../../public/dev-logos/nest.png" alt="nest">
+            <img src="../../public/dev-logos/googlescripts.png" alt="googlescripts">
         </div>
         <p>
-            I'm currently 100% focused on <a target="_blank" href="https://paper.dropbox.com/doc/My-Journey-to-Coding-Mastery--BJTgryfnBiB43a_nmogdSq~UAQ-kDdrF9BRDEx3KXjH6V8tp">My Journey to Coding Mastery</a> which, among other things, involves:
+            I'm currently focused on <a target="_blank" href="https://paper.dropbox.com/doc/My-Journey-to-Coding-Mastery--BJTgryfnBiB43a_nmogdSq~UAQ-kDdrF9BRDEx3KXjH6V8tp">My Journey to Coding Mastery</a> which, among other things, involves:
             <ul>
                 <li>Working for a small or mid size tech company with experienced tech mentors, great colleagues, and a healthy remote culture as a full-stack developer.</li>
                 <li>Detailing my vision, goals, and routines/systems to improve daily my skills in software engineering.</li>
-            </ul> 
+            </ul>
         </p>
-        <p>See my projects on <a target="_blank" href="https://github.com/carlosmiceli">Github</a> or my <span style="color: #35a2ee" @click="portfolioClick"><strong>Portfolio</strong></span>.</p>
+        <!-- <p>See my projects on <a target="_blank" href="https://github.com/carlosmiceli">Github</a> or my <span style="color: #35a2ee" @click="portfolioClick"><strong>Portfolio</strong></span>.</p> -->
               <br/>
-              <Portfolio v-if="switchToPortfolio" />
+              <Portfolio />
     </div>
-      </div>  
+      </div>
 </template>
 
 <script>

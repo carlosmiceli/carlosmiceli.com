@@ -5,7 +5,7 @@
 		:class="{ fadeIn: show === id }"
 	>
 		<img
-			src="https://firebasestorage.googleapis.com/v0/b/carlos-miceli-s-website.appspot.com/o/profile.jpg?alt=media&token=b737650e-2d76-497e-b663-64644a070b55"
+			src="https://firebasestorage.googleapis.com/v0/b/carlos-miceli-s-website.appspot.com/o/_D752386.jpg?alt=media&token=efb91eed-4a62-4cd6-a5be-8d9ef925f47c"
 			alt="speaking"
 		/>
 		<h3>SPEAKING</h3>
@@ -24,6 +24,12 @@
 			sharing the lessons from my own personal experience with other people
 			(what Nassim Taleb calls "doxastic commitment").
 		</p>
+    <br />
+
+    <!-- Embed this video with the same width as the container: https://www.youtube.com/watch?v=WXrAVp2FEvQ&pp=ygUQY2FybG9zIG1pY2VsaSBhaQ%3D%3D -->
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/WXrAVp2FEvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 		<br />
 		<p style="font-weight: 600">
 			I'm currently not interested in doing any form of public speaking due to
@@ -32,7 +38,7 @@
 				target="_blank"
 				href="https://paper.dropbox.com/doc/My-Journey-to-Coding-Mastery--BJTgryfnBiB43a_nmogdSq~UAQ-kDdrF9BRDEx3KXjH6V8tp"
 			>
-				My Journey to Coding Mastery</a
+				My Journey to Coding Mastery.</a
 			>
 		</p>
 		<br />

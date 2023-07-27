@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
 	<div
 		id="estonia-section"
 		v-show="show === id"
@@ -44,4 +44,4 @@ export default {
 	margin-top: 10px;
 	align-self: flex-start;
 }
-</style>
+</style> -->
