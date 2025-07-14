@@ -32,10 +32,6 @@
       <a href="https://www.mixcloud.com/elcharlym/" target="_blank">
         Mixcloud Profile and Sets
       </a>
-      <br />
-      <a href="https://open.spotify.com/playlist/6xFOY0FpcDMUmTveTMBPSR?si=b95e4a0f70674336" target="_blank">
-        Tema del Día</a> - Spotify playlist with +500 songs (a new song added every day)
-
 
     </p>
   </div>
